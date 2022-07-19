@@ -76,7 +76,7 @@ begin
      Edit2.Text:=FloatToStr(RoundTo(StrToFloat(Edit2.Text),-1));
 end;
 
-procedure TForm1.CheckBox1Change(Sender: TObject);
+procedure TForm1.CheckBox1Change(Sender: TObject);  // Cчётчик для поворота картинки
 begin
      if CheckBox1.Checked then
      begin

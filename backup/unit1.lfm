@@ -4,7 +4,7 @@ object Form1: TForm1
   Top = 147
   Width = 339
   BorderStyle = bsDialog
-  Caption = 'Калькулятор курсов для "Ил-2 Штурмовик"'
+  Caption = 'Калькулятор курсов для авиасимуляторов'
   ClientHeight = 400
   ClientWidth = 339
   OnCreate = FormCreate
